@@ -1,0 +1,1 @@
+<div id="auction-panel-home-div"></div>
